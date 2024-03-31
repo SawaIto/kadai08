@@ -10,12 +10,12 @@
     </a>
     <nav class="flex flex-col sm:flex-row">
         <ul class="flex justify-end items-center space-x-6">
-        <li class="text-xl hover:text-white hover:bg-yellow-500"><a href="#COMMENT" onclick="scrollToComment()">コメント</a></li>
-            <li class="text-xl hover:text-white hover:bg-yellow-500"><a href="http://localhost/kadai08_php/read.php">アンケート結果</a></li>
-            <li class="text-xl hover:text-white hover:bg-yellow-500"><a href="#COURSE">読み込む</a></li>
-            <li class="text-xl hover:text-white hover:bg-yellow-500"><a href="#NEWS">コード</a></li>
-            <li class="text-xl hover:text-white hover:bg-yellow-500"><a href="#ACCESS">作成</a></li>
-            <li class="text-xl hover:text-white hover:bg-yellow-500"><a href="#CONTACT">練習</a></li>
+        <li class="text-sm md:text-base lg:text-lg xl:text-xl hover:text-white hover:bg-yellow-500"><a href="#COMMENT" onclick="scrollToComment()">コメント</a></li>
+            <li class="text-sm md:text-base lg:text-lg xl:text-xl hover:text-white hover:bg-yellow-500"><a href="http://localhost/kadai08_php/read.php">アンケート結果</a></li>
+            <li class="text-sm md:text-base lg:text-lg xl:text-xl hover:text-white hover:bg-yellow-500"><a href="#COURSE">読み込む</a></li>
+            <li class="text-sm md:text-base lg:text-lg xl:text-xl hover:text-white hover:bg-yellow-500"><a href="#NEWS">コード</a></li>
+            <li class="text-sm md:text-base lg:text-lg xl:text-xl hover:text-white hover:bg-yellow-500"><a href="#ACCESS">作成</a></li>
+            <li class="text-sm md:text-base lg:text-lg xl:text-xl hover:text-white hover:bg-yellow-500"><a href="#CONTACT">練習</a></li>
         </ul>
     </nav>
 </header>
