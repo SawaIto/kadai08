@@ -161,7 +161,7 @@ foreach ($age_counts as $age => $count) {
                 $comment = '';
             }
             if (!empty($comment)) {
-                echo "<p class=\"text-base sm:text-lg md:text-xl\"><strong>$name</strong>: <span class=\"text-base sm:text-lg md:text-xl\">$comment</span></p>";
+                echo "<p class=\"text-sm sm:text-base md:text-lg\"><strong>$name</strong>: <span class=\"text-sm sm:text-base md:text-lg\">$comment</span></p>";
             }
         }
         ?>
